@@ -52,6 +52,7 @@ marp: true
 # 도커에 대한 설명은 이쯤하고 도커를 사용 해 봅시다!
   - 도커 이미지 만들고 배포하기
     - https://subicura.com/2017/02/10/docker-guide-for-beginners-create-image-and-deploy.html
+  - 도커 치트시트 : https://gist.github.com/nacyot/8366310
   - 도커를 사용해 장고 서버를 배포
     - Dockerfile 작성 > 빌드(이미지) > 실행(컨테이너)
     - 자동화를 위한 스크립트 작성 
@@ -60,3 +61,4 @@ marp: true
 1. 공식문서 : https://docs.docker.com/ 
 2. 가장 빨리 만나는 Docker 위키 : http://pyrasis.com/docker.html
 3. [토크ON세미나] 컨테이너 오케스트레이션 : https://www.youtube.com/watch?v=WxzWXqTNdlw
+4. 구글검색 : docker cheat sheet, docker best practice
