@@ -19,7 +19,7 @@ marp: true
 # 컨테이너 vs 가상화
 ---
 
-![](vm-vs-docker.png)
+![](images/vm-vs-docker.png)
 
 ---
 # 가상머신의 문제점
@@ -36,7 +36,7 @@ marp: true
   - 즉 가상화가 아닌 **격리** 
 ---
 
-![](libcontainer.png)
+![](images/libcontainer.png)
 
 ---
 # Docker(container)의 작동 원리
